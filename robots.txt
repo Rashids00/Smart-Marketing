@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://smart-marketing.netlify.app/sitemap.xml
